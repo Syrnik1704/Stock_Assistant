@@ -39,3 +39,4 @@ Finally user is also provided with currencies plots and bond returns analysis in
 - https://pypi.org/project/yfinance/
 - https://analyzingalpha.com/yfinance-python
 - https://algotrading101.com/learn/yfinance-guide/
+- https://pypi.org/project/yfinance/
